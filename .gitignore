@@ -1,0 +1,15 @@
+# 编译产物
+*.exe
+*.pdb
+*.obj
+
+# 编辑器
+.vs/
+.vscode/
+*.user
+*.suo
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
