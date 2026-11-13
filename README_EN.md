@@ -24,6 +24,8 @@ When the node multiplier is ≥ 3 the pill turns red (`5X` dynamic-home-broadban
 
 **Statistics window**
 
+![Statistics window](docs/screenshot-stats.png)
+
 - **History** — daily table: total / proxy / direct, mouse-wheel paging
 - **Chart** — large gradient sparkline plus an hourly bar chart for today
 - **Apps** — per-process down / up / total (requires administrator, see below)
